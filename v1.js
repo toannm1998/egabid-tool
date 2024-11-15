@@ -31,6 +31,7 @@ let userBids = new Map(); // To keep track of bids placed by each user
 // Add at the top with other constants
 const TARGET_AUCTION_URL = "https://egabid.com/en/auction/22477.html";
 const BID_INTERVAL = 1000; // Time in milliseconds between bids
+const START_PRICE = null; // Set to null to use data.start, or set a specific number like 1000
 
 (async () => {
   // Connect ws
@@ -278,7 +279,7 @@ const autoBid = async (auctionId, client, token, accountIndex, username) => {
         // Calculate next bid price
         let nextPrice;
         if (userBidSet.size === 0) {
-          nextPrice = data.start; // Start from minimum price
+          nextPrice = START_PRICE !== null ? START_PRICE : data.start; // Use custom start price or data.start
         } else {
           const lastBid = Math.max(...Array.from(userBidSet), 0);
           nextPrice = lastBid + data.step; // Increment by step price
