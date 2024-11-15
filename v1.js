@@ -30,6 +30,7 @@ let userBids = new Map(); // To keep track of bids placed by each user
 
 // Add at the top with other constants
 const TARGET_AUCTION_URL = "https://egabid.com/en/auction/22477.html";
+const BID_INTERVAL = 1000; // Time in milliseconds between bids
 
 (async () => {
   // Connect ws
@@ -318,7 +319,7 @@ const autoBid = async (auctionId, client, token, accountIndex, username) => {
     } else {
       clearInterval(intervalBid);
     }
-  }, 1000); // Bid every second
+  }, BID_INTERVAL); // Bid every second
 
   return stopBot;
 };
