@@ -9,7 +9,7 @@ const { parse } = require("json2csv");
 const path = require("path");
 
 const regex =
-  /^https:\/\/egabid\.com\/en\/auction\/([a-zA-Z0-9-']+)-(\d+)\.html$/;
+  /^https:\/\/egabid\.com\/en\/auction\/(?:[\w\-'%]+-)?([\d]+)\.html$/;
 
 // Add an array of account credentials
 const accounts = [
@@ -29,7 +29,9 @@ let bidHistory = [];
 let userBids = new Map(); // To keep track of bids placed by each user
 
 // Add at the top with other constants
-const TARGET_AUCTION_URL = "https://egabid.com/en/auction/22477.html";
+
+const AUCTION_ID = 22480;
+const TARGET_AUCTION_URL = `https://egabid.com/en/auction/${AUCTION_ID}.html`;
 const BID_INTERVAL = 1000; // Time in milliseconds between bids
 const START_PRICE = null; // Set to null to use data.start, or set a specific number like 1000
 
@@ -109,7 +111,7 @@ const START_PRICE = null; // Set to null to use data.start, or set a specific nu
         page.on("framenavigated", async (frame) => {
           const match = frame.url().match(regex);
           if (match) {
-            const auctionId = match[2];
+            const auctionId = match[1];
             if (token) {
               bot = await autoBid(
                 auctionId,
