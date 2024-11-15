@@ -17,9 +17,8 @@ const accounts = [
   { username: "toannguyenminh.dev@gmail.com", password: "@Dmin4123" },
   { username: "toan@chapsmail.com", password: "123456" },
   { username: "bachxtnd2000@gmail.com", password: "123321" },
-  { username: "tegiga6193@angewy.com", password: "123456" },
   { username: "testmetatech@gmail.com", password: "12345678" },
-  { username: "toannguyen100998@gmail.com", password: "12345678" },
+  { username: "toannguyen100998@gmail.com", password: "@Dmin4123" },
 ];
 
 // Global variable to store all bid history
@@ -49,10 +48,9 @@ const TARGET_AUCTION_URL = "https://egabid.com/en/auction/22477.html";
 
         // Login and get token
         await loginToPage(page, account);
-        
-        // Add redirect after login
-        await page.goto(TARGET_AUCTION_URL);
-        
+
+        // Add redirect after login with retry logic
+
         let token = null;
         let running = true;
 
@@ -62,6 +60,28 @@ const TARGET_AUCTION_URL = "https://egabid.com/en/auction/22477.html";
               const cookie = await egabid.getCookie(page);
               if (cookie) {
                 token = cookie.value;
+                let retries = 3;
+                while (retries > 0) {
+                  try {
+                    await page.goto(TARGET_AUCTION_URL, {
+                      waitUntil: "networkidle2",
+                      timeout: 30000,
+                    });
+                    break;
+                  } catch (error) {
+                    console.log(
+                      `Navigation failed for account ${
+                        index + 1
+                      }, retries left: ${retries - 1}`
+                    );
+                    retries--;
+                    if (retries === 0) {
+                      throw error;
+                    }
+                    await new Promise((resolve) => setTimeout(resolve, 5000));
+                  }
+                }
+
                 console.log(`Token obtained for account ${index + 1}`);
               }
             } catch (error) {
@@ -268,7 +288,7 @@ const autoBid = async (auctionId, client, token, accountIndex, username) => {
           console.log(`Account ${accountIndex + 1} bidding:`, nextPrice);
           const bidTime = new Date().toISOString();
           egabid.bidAll(auctionId, [nextPrice], token);
-          
+
           const bidInfo = {
             username,
             bidPrice: nextPrice,
@@ -277,16 +297,17 @@ const autoBid = async (auctionId, client, token, accountIndex, username) => {
           };
           bidHistory.push(bidInfo);
           userBidSet.add(nextPrice);
-          
+
           if (bidHistory.length % 10 === 0) {
             await saveBidHistoryToFile();
           }
         } else {
           console.log(
-            `Account ${accountIndex + 1} skipped bidding: price ${nextPrice} already bid by this user`
+            `Account ${
+              accountIndex + 1
+            } skipped bidding: price ${nextPrice} already bid by this user`
           );
         }
-
       } else if (now > data.endAt) {
         clearInterval(intervalBid);
         console.log(`Auction ended for Account ${accountIndex + 1}`);
