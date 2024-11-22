@@ -1,0 +1,6122 @@
+[
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 1,
+    "time": "2024-11-15T10:17:49.667Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 2,
+    "time": "2024-11-15T10:17:50.029Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 3,
+    "time": "2024-11-15T10:17:50.673Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 4,
+    "time": "2024-11-15T10:17:51.028Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 1,
+    "time": "2024-11-15T10:17:51.449Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 2,
+    "time": "2024-11-15T10:17:51.633Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 5,
+    "time": "2024-11-15T10:17:51.677Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 6,
+    "time": "2024-11-15T10:17:52.029Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 1,
+    "time": "2024-11-15T10:17:52.268Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 2,
+    "time": "2024-11-15T10:17:52.400Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 3,
+    "time": "2024-11-15T10:17:52.483Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 1,
+    "time": "2024-11-15T10:17:52.706Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 4,
+    "time": "2024-11-15T10:17:52.709Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 7,
+    "time": "2024-11-15T10:17:52.717Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 2,
+    "time": "2024-11-15T10:17:52.987Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 8,
+    "time": "2024-11-15T10:17:53.147Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 3,
+    "time": "2024-11-15T10:17:53.266Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 1,
+    "time": "2024-11-15T10:17:53.295Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 4,
+    "time": "2024-11-15T10:17:53.402Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 5,
+    "time": "2024-11-15T10:17:53.456Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 3,
+    "time": "2024-11-15T10:17:53.685Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 6,
+    "time": "2024-11-15T10:17:53.712Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 9,
+    "time": "2024-11-15T10:17:53.775Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 2,
+    "time": "2024-11-15T10:17:53.818Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 4,
+    "time": "2024-11-15T10:17:54.108Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 10,
+    "time": "2024-11-15T10:17:54.217Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 5,
+    "time": "2024-11-15T10:17:54.268Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 3,
+    "time": "2024-11-15T10:17:54.295Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 6,
+    "time": "2024-11-15T10:17:54.402Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 7,
+    "time": "2024-11-15T10:17:54.458Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 5,
+    "time": "2024-11-15T10:17:54.691Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 8,
+    "time": "2024-11-15T10:17:54.721Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 11,
+    "time": "2024-11-15T10:17:54.785Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 4,
+    "time": "2024-11-15T10:17:54.823Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 6,
+    "time": "2024-11-15T10:17:55.099Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 12,
+    "time": "2024-11-15T10:17:55.226Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 7,
+    "time": "2024-11-15T10:17:55.271Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 5,
+    "time": "2024-11-15T10:17:55.295Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 8,
+    "time": "2024-11-15T10:17:55.408Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 9,
+    "time": "2024-11-15T10:17:55.459Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 7,
+    "time": "2024-11-15T10:17:55.705Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 10,
+    "time": "2024-11-15T10:17:55.735Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 13,
+    "time": "2024-11-15T10:17:55.780Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 6,
+    "time": "2024-11-15T10:17:55.827Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 8,
+    "time": "2024-11-15T10:17:56.102Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 14,
+    "time": "2024-11-15T10:17:56.228Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 9,
+    "time": "2024-11-15T10:17:56.274Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 7,
+    "time": "2024-11-15T10:17:56.297Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 10,
+    "time": "2024-11-15T10:17:56.411Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 11,
+    "time": "2024-11-15T10:17:56.461Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 9,
+    "time": "2024-11-15T10:17:56.706Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 12,
+    "time": "2024-11-15T10:17:56.738Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 15,
+    "time": "2024-11-15T10:17:56.783Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 8,
+    "time": "2024-11-15T10:17:56.829Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 10,
+    "time": "2024-11-15T10:17:57.105Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 16,
+    "time": "2024-11-15T10:17:57.232Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 11,
+    "time": "2024-11-15T10:17:57.288Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 9,
+    "time": "2024-11-15T10:17:57.303Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 12,
+    "time": "2024-11-15T10:17:57.413Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 13,
+    "time": "2024-11-15T10:17:57.461Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 11,
+    "time": "2024-11-15T10:17:57.706Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 14,
+    "time": "2024-11-15T10:17:57.738Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 17,
+    "time": "2024-11-15T10:17:57.784Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 10,
+    "time": "2024-11-15T10:17:57.828Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 12,
+    "time": "2024-11-15T10:17:58.117Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 18,
+    "time": "2024-11-15T10:17:58.240Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 13,
+    "time": "2024-11-15T10:17:58.298Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 11,
+    "time": "2024-11-15T10:17:58.303Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 14,
+    "time": "2024-11-15T10:17:58.414Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 15,
+    "time": "2024-11-15T10:17:58.461Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 13,
+    "time": "2024-11-15T10:17:58.715Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 16,
+    "time": "2024-11-15T10:17:58.751Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 19,
+    "time": "2024-11-15T10:17:58.793Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 12,
+    "time": "2024-11-15T10:17:58.839Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 14,
+    "time": "2024-11-15T10:17:59.131Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 20,
+    "time": "2024-11-15T10:17:59.241Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 15,
+    "time": "2024-11-15T10:17:59.298Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 13,
+    "time": "2024-11-15T10:17:59.304Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 16,
+    "time": "2024-11-15T10:17:59.413Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 17,
+    "time": "2024-11-15T10:17:59.463Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 15,
+    "time": "2024-11-15T10:17:59.725Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 1,
+    "time": "2024-11-15T10:17:59.726Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 18,
+    "time": "2024-11-15T10:17:59.757Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 21,
+    "time": "2024-11-15T10:17:59.803Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 14,
+    "time": "2024-11-15T10:17:59.843Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 2,
+    "time": "2024-11-15T10:17:59.902Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 16,
+    "time": "2024-11-15T10:18:00.131Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 22,
+    "time": "2024-11-15T10:18:00.241Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 17,
+    "time": "2024-11-15T10:18:00.304Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 15,
+    "time": "2024-11-15T10:18:00.305Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 18,
+    "time": "2024-11-15T10:18:00.422Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 19,
+    "time": "2024-11-15T10:18:00.463Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 17,
+    "time": "2024-11-15T10:18:00.735Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 3,
+    "time": "2024-11-15T10:18:00.737Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 20,
+    "time": "2024-11-15T10:18:00.766Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 23,
+    "time": "2024-11-15T10:18:00.806Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 16,
+    "time": "2024-11-15T10:18:00.846Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 4,
+    "time": "2024-11-15T10:18:00.902Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 18,
+    "time": "2024-11-15T10:18:01.132Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 24,
+    "time": "2024-11-15T10:18:01.251Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 19,
+    "time": "2024-11-15T10:18:01.317Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 17,
+    "time": "2024-11-15T10:18:01.318Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 20,
+    "time": "2024-11-15T10:18:01.424Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 21,
+    "time": "2024-11-15T10:18:01.470Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 19,
+    "time": "2024-11-15T10:18:01.742Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 5,
+    "time": "2024-11-15T10:18:01.742Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 22,
+    "time": "2024-11-15T10:18:01.773Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 25,
+    "time": "2024-11-15T10:18:01.807Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 18,
+    "time": "2024-11-15T10:18:01.846Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 6,
+    "time": "2024-11-15T10:18:01.905Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 20,
+    "time": "2024-11-15T10:18:02.139Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 26,
+    "time": "2024-11-15T10:18:02.263Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 21,
+    "time": "2024-11-15T10:18:02.317Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 19,
+    "time": "2024-11-15T10:18:02.318Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 22,
+    "time": "2024-11-15T10:18:02.426Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 23,
+    "time": "2024-11-15T10:18:02.474Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 21,
+    "time": "2024-11-15T10:18:02.755Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 7,
+    "time": "2024-11-15T10:18:02.755Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 24,
+    "time": "2024-11-15T10:18:02.775Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 27,
+    "time": "2024-11-15T10:18:02.817Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 20,
+    "time": "2024-11-15T10:18:02.849Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 8,
+    "time": "2024-11-15T10:18:02.909Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 22,
+    "time": "2024-11-15T10:18:03.153Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 28,
+    "time": "2024-11-15T10:18:03.275Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 23,
+    "time": "2024-11-15T10:18:03.321Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 21,
+    "time": "2024-11-15T10:18:03.323Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 24,
+    "time": "2024-11-15T10:18:03.429Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 25,
+    "time": "2024-11-15T10:18:03.476Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 23,
+    "time": "2024-11-15T10:18:03.765Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 9,
+    "time": "2024-11-15T10:18:03.767Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 26,
+    "time": "2024-11-15T10:18:03.774Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 29,
+    "time": "2024-11-15T10:18:03.819Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 22,
+    "time": "2024-11-15T10:18:03.851Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 10,
+    "time": "2024-11-15T10:18:03.913Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 24,
+    "time": "2024-11-15T10:18:04.164Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 30,
+    "time": "2024-11-15T10:18:04.285Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 25,
+    "time": "2024-11-15T10:18:04.332Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 23,
+    "time": "2024-11-15T10:18:04.332Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 26,
+    "time": "2024-11-15T10:18:04.437Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 27,
+    "time": "2024-11-15T10:18:04.477Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 25,
+    "time": "2024-11-15T10:18:04.777Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 11,
+    "time": "2024-11-15T10:18:04.779Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 28,
+    "time": "2024-11-15T10:18:04.780Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 31,
+    "time": "2024-11-15T10:18:04.825Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 24,
+    "time": "2024-11-15T10:18:04.857Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 12,
+    "time": "2024-11-15T10:18:04.913Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 26,
+    "time": "2024-11-15T10:18:05.166Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 32,
+    "time": "2024-11-15T10:18:05.300Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 27,
+    "time": "2024-11-15T10:18:05.331Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 25,
+    "time": "2024-11-15T10:18:05.332Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 28,
+    "time": "2024-11-15T10:18:05.438Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 29,
+    "time": "2024-11-15T10:18:05.481Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 27,
+    "time": "2024-11-15T10:18:05.788Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 13,
+    "time": "2024-11-15T10:18:05.789Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 30,
+    "time": "2024-11-15T10:18:05.789Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 33,
+    "time": "2024-11-15T10:18:05.825Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 26,
+    "time": "2024-11-15T10:18:05.856Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 14,
+    "time": "2024-11-15T10:18:05.927Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 28,
+    "time": "2024-11-15T10:18:06.173Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 34,
+    "time": "2024-11-15T10:18:06.312Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 29,
+    "time": "2024-11-15T10:18:06.332Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 27,
+    "time": "2024-11-15T10:18:06.334Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 30,
+    "time": "2024-11-15T10:18:06.450Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 31,
+    "time": "2024-11-15T10:18:06.480Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 29,
+    "time": "2024-11-15T10:18:06.793Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 15,
+    "time": "2024-11-15T10:18:06.794Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 32,
+    "time": "2024-11-15T10:18:06.795Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 35,
+    "time": "2024-11-15T10:18:06.830Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 28,
+    "time": "2024-11-15T10:18:06.857Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 16,
+    "time": "2024-11-15T10:18:06.927Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 30,
+    "time": "2024-11-15T10:18:07.187Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 36,
+    "time": "2024-11-15T10:18:07.318Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 31,
+    "time": "2024-11-15T10:18:07.340Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 29,
+    "time": "2024-11-15T10:18:07.342Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 32,
+    "time": "2024-11-15T10:18:07.456Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 33,
+    "time": "2024-11-15T10:18:07.495Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 31,
+    "time": "2024-11-15T10:18:07.803Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 17,
+    "time": "2024-11-15T10:18:07.803Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 34,
+    "time": "2024-11-15T10:18:07.804Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 37,
+    "time": "2024-11-15T10:18:07.835Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 30,
+    "time": "2024-11-15T10:18:07.857Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 18,
+    "time": "2024-11-15T10:18:07.929Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 32,
+    "time": "2024-11-15T10:18:08.189Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 38,
+    "time": "2024-11-15T10:18:08.327Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 33,
+    "time": "2024-11-15T10:18:08.342Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 31,
+    "time": "2024-11-15T10:18:08.343Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 34,
+    "time": "2024-11-15T10:18:08.460Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 35,
+    "time": "2024-11-15T10:18:08.495Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 33,
+    "time": "2024-11-15T10:18:08.804Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 19,
+    "time": "2024-11-15T10:18:08.805Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 36,
+    "time": "2024-11-15T10:18:08.806Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 39,
+    "time": "2024-11-15T10:18:08.835Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 32,
+    "time": "2024-11-15T10:18:08.864Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 20,
+    "time": "2024-11-15T10:18:08.929Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 34,
+    "time": "2024-11-15T10:18:09.202Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 40,
+    "time": "2024-11-15T10:18:09.331Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 35,
+    "time": "2024-11-15T10:18:09.352Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 33,
+    "time": "2024-11-15T10:18:09.358Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 36,
+    "time": "2024-11-15T10:18:09.461Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 37,
+    "time": "2024-11-15T10:18:09.495Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 35,
+    "time": "2024-11-15T10:18:09.814Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 21,
+    "time": "2024-11-15T10:18:09.815Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 38,
+    "time": "2024-11-15T10:18:09.816Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 41,
+    "time": "2024-11-15T10:18:09.840Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 34,
+    "time": "2024-11-15T10:18:09.877Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 22,
+    "time": "2024-11-15T10:18:09.937Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 36,
+    "time": "2024-11-15T10:18:10.201Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 42,
+    "time": "2024-11-15T10:18:10.332Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 37,
+    "time": "2024-11-15T10:18:10.354Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 35,
+    "time": "2024-11-15T10:18:10.356Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 38,
+    "time": "2024-11-15T10:18:10.463Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 39,
+    "time": "2024-11-15T10:18:10.499Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 37,
+    "time": "2024-11-15T10:18:10.814Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 23,
+    "time": "2024-11-15T10:18:10.815Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 40,
+    "time": "2024-11-15T10:18:10.816Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 43,
+    "time": "2024-11-15T10:18:10.844Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 36,
+    "time": "2024-11-15T10:18:10.878Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 24,
+    "time": "2024-11-15T10:18:10.937Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 38,
+    "time": "2024-11-15T10:18:11.215Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 44,
+    "time": "2024-11-15T10:18:11.340Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 39,
+    "time": "2024-11-15T10:18:11.356Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 37,
+    "time": "2024-11-15T10:18:11.357Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 40,
+    "time": "2024-11-15T10:18:11.464Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 41,
+    "time": "2024-11-15T10:18:11.506Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 39,
+    "time": "2024-11-15T10:18:11.819Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 25,
+    "time": "2024-11-15T10:18:11.820Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 42,
+    "time": "2024-11-15T10:18:11.820Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 45,
+    "time": "2024-11-15T10:18:11.850Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 38,
+    "time": "2024-11-15T10:18:11.880Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 26,
+    "time": "2024-11-15T10:18:11.938Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 40,
+    "time": "2024-11-15T10:18:12.219Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 46,
+    "time": "2024-11-15T10:18:12.342Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 41,
+    "time": "2024-11-15T10:18:12.358Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 39,
+    "time": "2024-11-15T10:18:12.363Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 42,
+    "time": "2024-11-15T10:18:12.471Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 43,
+    "time": "2024-11-15T10:18:12.507Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 41,
+    "time": "2024-11-15T10:18:12.834Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 27,
+    "time": "2024-11-15T10:18:12.834Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 44,
+    "time": "2024-11-15T10:18:12.835Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 47,
+    "time": "2024-11-15T10:18:12.851Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 40,
+    "time": "2024-11-15T10:18:12.881Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 28,
+    "time": "2024-11-15T10:18:12.939Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 42,
+    "time": "2024-11-15T10:18:13.232Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 48,
+    "time": "2024-11-15T10:18:13.354Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 43,
+    "time": "2024-11-15T10:18:13.367Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 41,
+    "time": "2024-11-15T10:18:13.368Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 44,
+    "time": "2024-11-15T10:18:13.471Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 45,
+    "time": "2024-11-15T10:18:13.507Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 43,
+    "time": "2024-11-15T10:18:13.836Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 29,
+    "time": "2024-11-15T10:18:13.837Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 46,
+    "time": "2024-11-15T10:18:13.838Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 49,
+    "time": "2024-11-15T10:18:13.867Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 42,
+    "time": "2024-11-15T10:18:13.881Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 30,
+    "time": "2024-11-15T10:18:13.940Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 44,
+    "time": "2024-11-15T10:18:14.234Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 50,
+    "time": "2024-11-15T10:18:14.359Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 45,
+    "time": "2024-11-15T10:18:14.367Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 43,
+    "time": "2024-11-15T10:18:14.368Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 46,
+    "time": "2024-11-15T10:18:14.480Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 47,
+    "time": "2024-11-15T10:18:14.509Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 45,
+    "time": "2024-11-15T10:18:14.837Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 31,
+    "time": "2024-11-15T10:18:14.838Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 48,
+    "time": "2024-11-15T10:18:14.839Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 51,
+    "time": "2024-11-15T10:18:14.872Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 44,
+    "time": "2024-11-15T10:18:14.887Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 32,
+    "time": "2024-11-15T10:18:14.939Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 46,
+    "time": "2024-11-15T10:18:15.241Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 52,
+    "time": "2024-11-15T10:18:15.391Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 47,
+    "time": "2024-11-15T10:18:15.394Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 45,
+    "time": "2024-11-15T10:18:15.395Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 48,
+    "time": "2024-11-15T10:18:15.482Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 49,
+    "time": "2024-11-15T10:18:15.513Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 47,
+    "time": "2024-11-15T10:18:15.848Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 33,
+    "time": "2024-11-15T10:18:15.849Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 50,
+    "time": "2024-11-15T10:18:15.849Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 53,
+    "time": "2024-11-15T10:18:15.875Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 46,
+    "time": "2024-11-15T10:18:15.886Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 34,
+    "time": "2024-11-15T10:18:15.940Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 48,
+    "time": "2024-11-15T10:18:16.248Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 54,
+    "time": "2024-11-15T10:18:16.386Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 49,
+    "time": "2024-11-15T10:18:16.401Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 47,
+    "time": "2024-11-15T10:18:16.402Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 50,
+    "time": "2024-11-15T10:18:16.489Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 51,
+    "time": "2024-11-15T10:18:16.522Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 49,
+    "time": "2024-11-15T10:18:16.849Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 35,
+    "time": "2024-11-15T10:18:16.850Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 52,
+    "time": "2024-11-15T10:18:16.851Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 55,
+    "time": "2024-11-15T10:18:16.879Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 48,
+    "time": "2024-11-15T10:18:16.896Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 36,
+    "time": "2024-11-15T10:18:16.944Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 50,
+    "time": "2024-11-15T10:18:17.249Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 56,
+    "time": "2024-11-15T10:18:17.396Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 51,
+    "time": "2024-11-15T10:18:17.405Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 49,
+    "time": "2024-11-15T10:18:17.406Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 52,
+    "time": "2024-11-15T10:18:17.493Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 53,
+    "time": "2024-11-15T10:18:17.523Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 51,
+    "time": "2024-11-15T10:18:17.861Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 37,
+    "time": "2024-11-15T10:18:17.862Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 54,
+    "time": "2024-11-15T10:18:17.862Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 57,
+    "time": "2024-11-15T10:18:17.891Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 50,
+    "time": "2024-11-15T10:18:17.906Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 38,
+    "time": "2024-11-15T10:18:17.943Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 52,
+    "time": "2024-11-15T10:18:18.258Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 58,
+    "time": "2024-11-15T10:18:18.392Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 53,
+    "time": "2024-11-15T10:18:18.410Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 51,
+    "time": "2024-11-15T10:18:18.411Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 54,
+    "time": "2024-11-15T10:18:18.502Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 55,
+    "time": "2024-11-15T10:18:18.525Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 53,
+    "time": "2024-11-15T10:18:18.870Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 39,
+    "time": "2024-11-15T10:18:18.871Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 56,
+    "time": "2024-11-15T10:18:18.872Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 59,
+    "time": "2024-11-15T10:18:18.900Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 52,
+    "time": "2024-11-15T10:18:18.916Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 40,
+    "time": "2024-11-15T10:18:18.944Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 54,
+    "time": "2024-11-15T10:18:19.267Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 60,
+    "time": "2024-11-15T10:18:19.393Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 55,
+    "time": "2024-11-15T10:18:19.422Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 53,
+    "time": "2024-11-15T10:18:19.424Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 56,
+    "time": "2024-11-15T10:18:19.511Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 57,
+    "time": "2024-11-15T10:18:19.527Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 55,
+    "time": "2024-11-15T10:18:19.880Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 41,
+    "time": "2024-11-15T10:18:19.881Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 58,
+    "time": "2024-11-15T10:18:19.881Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 61,
+    "time": "2024-11-15T10:18:19.911Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 54,
+    "time": "2024-11-15T10:18:19.925Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 42,
+    "time": "2024-11-15T10:18:19.944Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 56,
+    "time": "2024-11-15T10:18:20.280Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 62,
+    "time": "2024-11-15T10:18:20.402Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 57,
+    "time": "2024-11-15T10:18:20.422Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 55,
+    "time": "2024-11-15T10:18:20.424Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 58,
+    "time": "2024-11-15T10:18:20.522Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 59,
+    "time": "2024-11-15T10:18:20.532Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 57,
+    "time": "2024-11-15T10:18:20.894Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 43,
+    "time": "2024-11-15T10:18:20.895Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 60,
+    "time": "2024-11-15T10:18:20.895Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 63,
+    "time": "2024-11-15T10:18:20.924Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 56,
+    "time": "2024-11-15T10:18:20.925Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 44,
+    "time": "2024-11-15T10:18:20.944Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 58,
+    "time": "2024-11-15T10:18:21.294Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 64,
+    "time": "2024-11-15T10:18:21.403Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 59,
+    "time": "2024-11-15T10:18:21.421Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 57,
+    "time": "2024-11-15T10:18:21.425Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 60,
+    "time": "2024-11-15T10:18:21.527Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 61,
+    "time": "2024-11-15T10:18:21.543Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 59,
+    "time": "2024-11-15T10:18:21.898Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 45,
+    "time": "2024-11-15T10:18:21.899Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 62,
+    "time": "2024-11-15T10:18:21.901Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 65,
+    "time": "2024-11-15T10:18:21.930Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 58,
+    "time": "2024-11-15T10:18:21.931Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 46,
+    "time": "2024-11-15T10:18:21.945Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 60,
+    "time": "2024-11-15T10:18:22.297Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 66,
+    "time": "2024-11-15T10:18:22.409Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 61,
+    "time": "2024-11-15T10:18:22.438Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 59,
+    "time": "2024-11-15T10:18:22.440Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 62,
+    "time": "2024-11-15T10:18:22.530Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 63,
+    "time": "2024-11-15T10:18:22.542Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 61,
+    "time": "2024-11-15T10:18:22.914Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 47,
+    "time": "2024-11-15T10:18:22.915Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 64,
+    "time": "2024-11-15T10:18:22.916Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 67,
+    "time": "2024-11-15T10:18:22.936Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 60,
+    "time": "2024-11-15T10:18:22.938Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 48,
+    "time": "2024-11-15T10:18:22.945Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 62,
+    "time": "2024-11-15T10:18:23.312Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 68,
+    "time": "2024-11-15T10:18:23.408Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 63,
+    "time": "2024-11-15T10:18:23.437Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 61,
+    "time": "2024-11-15T10:18:23.439Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 64,
+    "time": "2024-11-15T10:18:23.531Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 65,
+    "time": "2024-11-15T10:18:23.558Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 63,
+    "time": "2024-11-15T10:18:23.924Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 49,
+    "time": "2024-11-15T10:18:23.925Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 66,
+    "time": "2024-11-15T10:18:23.926Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 69,
+    "time": "2024-11-15T10:18:23.936Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 62,
+    "time": "2024-11-15T10:18:23.937Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 50,
+    "time": "2024-11-15T10:18:23.946Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 64,
+    "time": "2024-11-15T10:18:24.313Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 70,
+    "time": "2024-11-15T10:18:24.422Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 65,
+    "time": "2024-11-15T10:18:24.437Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 63,
+    "time": "2024-11-15T10:18:24.439Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 66,
+    "time": "2024-11-15T10:18:24.538Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 67,
+    "time": "2024-11-15T10:18:24.558Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 65,
+    "time": "2024-11-15T10:18:24.931Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 51,
+    "time": "2024-11-15T10:18:24.932Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 68,
+    "time": "2024-11-15T10:18:24.933Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 71,
+    "time": "2024-11-15T10:18:24.937Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 64,
+    "time": "2024-11-15T10:18:24.938Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 52,
+    "time": "2024-11-15T10:18:24.945Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 66,
+    "time": "2024-11-15T10:18:25.320Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 72,
+    "time": "2024-11-15T10:18:25.426Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 67,
+    "time": "2024-11-15T10:18:25.441Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 65,
+    "time": "2024-11-15T10:18:25.442Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 68,
+    "time": "2024-11-15T10:18:25.546Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 69,
+    "time": "2024-11-15T10:18:25.559Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 67,
+    "time": "2024-11-15T10:18:25.931Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 53,
+    "time": "2024-11-15T10:18:25.932Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 70,
+    "time": "2024-11-15T10:18:25.934Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 73,
+    "time": "2024-11-15T10:18:25.946Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 66,
+    "time": "2024-11-15T10:18:25.947Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 54,
+    "time": "2024-11-15T10:18:25.948Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 68,
+    "time": "2024-11-15T10:18:26.331Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 74,
+    "time": "2024-11-15T10:18:26.439Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 69,
+    "time": "2024-11-15T10:18:26.440Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 67,
+    "time": "2024-11-15T10:18:26.441Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 70,
+    "time": "2024-11-15T10:18:26.547Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 71,
+    "time": "2024-11-15T10:18:26.561Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 69,
+    "time": "2024-11-15T10:18:26.930Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 55,
+    "time": "2024-11-15T10:18:26.934Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 72,
+    "time": "2024-11-15T10:18:26.935Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 75,
+    "time": "2024-11-15T10:18:26.946Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 68,
+    "time": "2024-11-15T10:18:26.947Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 56,
+    "time": "2024-11-15T10:18:26.948Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 70,
+    "time": "2024-11-15T10:18:27.336Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 76,
+    "time": "2024-11-15T10:18:27.440Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 71,
+    "time": "2024-11-15T10:18:27.441Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 69,
+    "time": "2024-11-15T10:18:27.443Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 72,
+    "time": "2024-11-15T10:18:27.550Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 73,
+    "time": "2024-11-15T10:18:27.566Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 71,
+    "time": "2024-11-15T10:18:27.931Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 57,
+    "time": "2024-11-15T10:18:27.936Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 74,
+    "time": "2024-11-15T10:18:27.938Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 77,
+    "time": "2024-11-15T10:18:27.947Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 70,
+    "time": "2024-11-15T10:18:27.949Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 58,
+    "time": "2024-11-15T10:18:27.951Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 72,
+    "time": "2024-11-15T10:18:28.346Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 78,
+    "time": "2024-11-15T10:18:28.441Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 73,
+    "time": "2024-11-15T10:18:28.443Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 71,
+    "time": "2024-11-15T10:18:28.444Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 74,
+    "time": "2024-11-15T10:18:28.559Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 75,
+    "time": "2024-11-15T10:18:28.567Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 73,
+    "time": "2024-11-15T10:18:28.941Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 59,
+    "time": "2024-11-15T10:18:28.942Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 76,
+    "time": "2024-11-15T10:18:28.944Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 79,
+    "time": "2024-11-15T10:18:28.948Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 72,
+    "time": "2024-11-15T10:18:28.950Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 60,
+    "time": "2024-11-15T10:18:28.951Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 74,
+    "time": "2024-11-15T10:18:29.360Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 80,
+    "time": "2024-11-15T10:18:29.442Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 75,
+    "time": "2024-11-15T10:18:29.444Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 73,
+    "time": "2024-11-15T10:18:29.445Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 76,
+    "time": "2024-11-15T10:18:29.575Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 77,
+    "time": "2024-11-15T10:18:29.579Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 75,
+    "time": "2024-11-15T10:18:29.954Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 61,
+    "time": "2024-11-15T10:18:29.955Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 78,
+    "time": "2024-11-15T10:18:29.955Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 81,
+    "time": "2024-11-15T10:18:29.956Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 74,
+    "time": "2024-11-15T10:18:29.956Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 62,
+    "time": "2024-11-15T10:18:29.956Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 76,
+    "time": "2024-11-15T10:18:30.362Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 82,
+    "time": "2024-11-15T10:18:30.445Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 77,
+    "time": "2024-11-15T10:18:30.446Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 75,
+    "time": "2024-11-15T10:18:30.447Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 78,
+    "time": "2024-11-15T10:18:30.576Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 79,
+    "time": "2024-11-15T10:18:30.579Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 77,
+    "time": "2024-11-15T10:18:30.958Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 63,
+    "time": "2024-11-15T10:18:30.960Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 80,
+    "time": "2024-11-15T10:18:30.961Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 83,
+    "time": "2024-11-15T10:18:30.962Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 76,
+    "time": "2024-11-15T10:18:30.963Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 64,
+    "time": "2024-11-15T10:18:30.964Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 78,
+    "time": "2024-11-15T10:18:31.376Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 84,
+    "time": "2024-11-15T10:18:31.449Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 79,
+    "time": "2024-11-15T10:18:31.450Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 77,
+    "time": "2024-11-15T10:18:31.451Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 80,
+    "time": "2024-11-15T10:18:31.580Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 81,
+    "time": "2024-11-15T10:18:31.581Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 79,
+    "time": "2024-11-15T10:18:31.959Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 65,
+    "time": "2024-11-15T10:18:31.961Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 82,
+    "time": "2024-11-15T10:18:31.963Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 85,
+    "time": "2024-11-15T10:18:31.964Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 78,
+    "time": "2024-11-15T10:18:31.966Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 66,
+    "time": "2024-11-15T10:18:31.967Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 80,
+    "time": "2024-11-15T10:18:32.378Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 86,
+    "time": "2024-11-15T10:18:32.456Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 81,
+    "time": "2024-11-15T10:18:32.459Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 79,
+    "time": "2024-11-15T10:18:32.460Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 82,
+    "time": "2024-11-15T10:18:32.587Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 83,
+    "time": "2024-11-15T10:18:32.590Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 81,
+    "time": "2024-11-15T10:18:32.961Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 67,
+    "time": "2024-11-15T10:18:32.963Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 84,
+    "time": "2024-11-15T10:18:32.964Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 87,
+    "time": "2024-11-15T10:18:32.966Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 80,
+    "time": "2024-11-15T10:18:32.968Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 68,
+    "time": "2024-11-15T10:18:32.969Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 82,
+    "time": "2024-11-15T10:18:33.378Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 88,
+    "time": "2024-11-15T10:18:33.460Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 83,
+    "time": "2024-11-15T10:18:33.462Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 81,
+    "time": "2024-11-15T10:18:33.463Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 84,
+    "time": "2024-11-15T10:18:33.595Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 85,
+    "time": "2024-11-15T10:18:33.596Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 83,
+    "time": "2024-11-15T10:18:33.963Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 69,
+    "time": "2024-11-15T10:18:33.964Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 86,
+    "time": "2024-11-15T10:18:33.965Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 89,
+    "time": "2024-11-15T10:18:33.967Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 82,
+    "time": "2024-11-15T10:18:33.968Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 70,
+    "time": "2024-11-15T10:18:33.978Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 84,
+    "time": "2024-11-15T10:18:34.380Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 90,
+    "time": "2024-11-15T10:18:34.460Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 85,
+    "time": "2024-11-15T10:18:34.462Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 83,
+    "time": "2024-11-15T10:18:34.463Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 86,
+    "time": "2024-11-15T10:18:34.598Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 87,
+    "time": "2024-11-15T10:18:34.599Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 85,
+    "time": "2024-11-15T10:18:34.969Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 71,
+    "time": "2024-11-15T10:18:34.970Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 88,
+    "time": "2024-11-15T10:18:34.971Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 91,
+    "time": "2024-11-15T10:18:34.973Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 84,
+    "time": "2024-11-15T10:18:34.974Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 72,
+    "time": "2024-11-15T10:18:34.984Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 86,
+    "time": "2024-11-15T10:18:35.386Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 92,
+    "time": "2024-11-15T10:18:35.462Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 87,
+    "time": "2024-11-15T10:18:35.463Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 85,
+    "time": "2024-11-15T10:18:35.465Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 88,
+    "time": "2024-11-15T10:18:35.601Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 89,
+    "time": "2024-11-15T10:18:35.602Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 87,
+    "time": "2024-11-15T10:18:35.982Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 73,
+    "time": "2024-11-15T10:18:35.984Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 90,
+    "time": "2024-11-15T10:18:35.985Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 93,
+    "time": "2024-11-15T10:18:35.986Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 86,
+    "time": "2024-11-15T10:18:35.987Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 74,
+    "time": "2024-11-15T10:18:35.989Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 88,
+    "time": "2024-11-15T10:18:36.397Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 94,
+    "time": "2024-11-15T10:18:36.461Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 89,
+    "time": "2024-11-15T10:18:36.464Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 87,
+    "time": "2024-11-15T10:18:36.465Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 90,
+    "time": "2024-11-15T10:18:36.601Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 91,
+    "time": "2024-11-15T10:18:36.602Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 89,
+    "time": "2024-11-15T10:18:36.990Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 75,
+    "time": "2024-11-15T10:18:36.991Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 92,
+    "time": "2024-11-15T10:18:36.992Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 95,
+    "time": "2024-11-15T10:18:36.994Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 88,
+    "time": "2024-11-15T10:18:36.995Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 76,
+    "time": "2024-11-15T10:18:36.996Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 90,
+    "time": "2024-11-15T10:18:37.399Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 96,
+    "time": "2024-11-15T10:18:37.470Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 91,
+    "time": "2024-11-15T10:18:37.471Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 89,
+    "time": "2024-11-15T10:18:37.471Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 92,
+    "time": "2024-11-15T10:18:37.613Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 93,
+    "time": "2024-11-15T10:18:37.614Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 91,
+    "time": "2024-11-15T10:18:37.999Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 77,
+    "time": "2024-11-15T10:18:38.000Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 94,
+    "time": "2024-11-15T10:18:38.001Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 97,
+    "time": "2024-11-15T10:18:38.001Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 90,
+    "time": "2024-11-15T10:18:38.002Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 78,
+    "time": "2024-11-15T10:18:38.002Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 92,
+    "time": "2024-11-15T10:18:38.403Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 98,
+    "time": "2024-11-15T10:18:38.479Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 93,
+    "time": "2024-11-15T10:18:38.480Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 91,
+    "time": "2024-11-15T10:18:38.482Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 94,
+    "time": "2024-11-15T10:18:38.618Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 95,
+    "time": "2024-11-15T10:18:38.619Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 93,
+    "time": "2024-11-15T10:18:39.005Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 79,
+    "time": "2024-11-15T10:18:39.006Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 96,
+    "time": "2024-11-15T10:18:39.007Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 99,
+    "time": "2024-11-15T10:18:39.009Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 92,
+    "time": "2024-11-15T10:18:39.011Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 80,
+    "time": "2024-11-15T10:18:39.014Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 94,
+    "time": "2024-11-15T10:18:39.403Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 100,
+    "time": "2024-11-15T10:18:39.484Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 95,
+    "time": "2024-11-15T10:18:39.485Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 93,
+    "time": "2024-11-15T10:18:39.486Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 96,
+    "time": "2024-11-15T10:18:39.622Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 97,
+    "time": "2024-11-15T10:18:39.623Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 95,
+    "time": "2024-11-15T10:18:40.019Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 81,
+    "time": "2024-11-15T10:18:40.020Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 98,
+    "time": "2024-11-15T10:18:40.020Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 101,
+    "time": "2024-11-15T10:18:40.020Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 94,
+    "time": "2024-11-15T10:18:40.021Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 82,
+    "time": "2024-11-15T10:18:40.021Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 96,
+    "time": "2024-11-15T10:18:40.404Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 102,
+    "time": "2024-11-15T10:18:40.497Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 97,
+    "time": "2024-11-15T10:18:40.498Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 95,
+    "time": "2024-11-15T10:18:40.499Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 98,
+    "time": "2024-11-15T10:18:40.621Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 99,
+    "time": "2024-11-15T10:18:40.626Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 97,
+    "time": "2024-11-15T10:18:41.019Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 83,
+    "time": "2024-11-15T10:18:41.020Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 100,
+    "time": "2024-11-15T10:18:41.024Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 103,
+    "time": "2024-11-15T10:18:41.026Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 96,
+    "time": "2024-11-15T10:18:41.027Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 84,
+    "time": "2024-11-15T10:18:41.029Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 98,
+    "time": "2024-11-15T10:18:41.407Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 104,
+    "time": "2024-11-15T10:18:41.501Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 99,
+    "time": "2024-11-15T10:18:41.502Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 97,
+    "time": "2024-11-15T10:18:41.504Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 100,
+    "time": "2024-11-15T10:18:41.625Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 101,
+    "time": "2024-11-15T10:18:41.626Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 99,
+    "time": "2024-11-15T10:18:42.030Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 85,
+    "time": "2024-11-15T10:18:42.031Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 102,
+    "time": "2024-11-15T10:18:42.032Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 105,
+    "time": "2024-11-15T10:18:42.034Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 98,
+    "time": "2024-11-15T10:18:42.042Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 86,
+    "time": "2024-11-15T10:18:42.044Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 100,
+    "time": "2024-11-15T10:18:42.416Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 106,
+    "time": "2024-11-15T10:18:42.509Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 101,
+    "time": "2024-11-15T10:18:42.510Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 99,
+    "time": "2024-11-15T10:18:42.510Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 102,
+    "time": "2024-11-15T10:18:42.630Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 103,
+    "time": "2024-11-15T10:18:42.631Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 101,
+    "time": "2024-11-15T10:18:43.029Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 87,
+    "time": "2024-11-15T10:18:43.035Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 104,
+    "time": "2024-11-15T10:18:43.035Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 107,
+    "time": "2024-11-15T10:18:43.036Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 100,
+    "time": "2024-11-15T10:18:43.039Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 88,
+    "time": "2024-11-15T10:18:43.044Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 102,
+    "time": "2024-11-15T10:18:43.428Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 108,
+    "time": "2024-11-15T10:18:43.521Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 103,
+    "time": "2024-11-15T10:18:43.522Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 101,
+    "time": "2024-11-15T10:18:43.523Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 104,
+    "time": "2024-11-15T10:18:43.643Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 105,
+    "time": "2024-11-15T10:18:43.644Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 103,
+    "time": "2024-11-15T10:18:44.029Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 89,
+    "time": "2024-11-15T10:18:44.035Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 106,
+    "time": "2024-11-15T10:18:44.038Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 109,
+    "time": "2024-11-15T10:18:44.040Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 102,
+    "time": "2024-11-15T10:18:44.041Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 90,
+    "time": "2024-11-15T10:18:44.043Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 104,
+    "time": "2024-11-15T10:18:44.432Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 110,
+    "time": "2024-11-15T10:18:44.523Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 105,
+    "time": "2024-11-15T10:18:44.524Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 103,
+    "time": "2024-11-15T10:18:44.526Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 106,
+    "time": "2024-11-15T10:18:44.644Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 107,
+    "time": "2024-11-15T10:18:44.645Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 105,
+    "time": "2024-11-15T10:18:45.029Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 91,
+    "time": "2024-11-15T10:18:45.038Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 108,
+    "time": "2024-11-15T10:18:45.039Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 111,
+    "time": "2024-11-15T10:18:45.041Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 104,
+    "time": "2024-11-15T10:18:45.043Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 92,
+    "time": "2024-11-15T10:18:45.044Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 106,
+    "time": "2024-11-15T10:18:45.446Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 112,
+    "time": "2024-11-15T10:18:45.523Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 107,
+    "time": "2024-11-15T10:18:45.525Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 105,
+    "time": "2024-11-15T10:18:45.526Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 108,
+    "time": "2024-11-15T10:18:45.647Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 109,
+    "time": "2024-11-15T10:18:45.649Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 107,
+    "time": "2024-11-15T10:18:46.031Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 93,
+    "time": "2024-11-15T10:18:46.046Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 110,
+    "time": "2024-11-15T10:18:46.047Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 113,
+    "time": "2024-11-15T10:18:46.047Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 106,
+    "time": "2024-11-15T10:18:46.048Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 94,
+    "time": "2024-11-15T10:18:46.048Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 108,
+    "time": "2024-11-15T10:18:46.458Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 114,
+    "time": "2024-11-15T10:18:46.523Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 109,
+    "time": "2024-11-15T10:18:46.526Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 107,
+    "time": "2024-11-15T10:18:46.528Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 110,
+    "time": "2024-11-15T10:18:46.648Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 111,
+    "time": "2024-11-15T10:18:46.649Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 109,
+    "time": "2024-11-15T10:18:47.041Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 95,
+    "time": "2024-11-15T10:18:47.045Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 112,
+    "time": "2024-11-15T10:18:47.047Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 115,
+    "time": "2024-11-15T10:18:47.049Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 108,
+    "time": "2024-11-15T10:18:47.050Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 96,
+    "time": "2024-11-15T10:18:47.051Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 110,
+    "time": "2024-11-15T10:18:47.473Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 116,
+    "time": "2024-11-15T10:18:47.531Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 111,
+    "time": "2024-11-15T10:18:47.532Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 109,
+    "time": "2024-11-15T10:18:47.533Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 112,
+    "time": "2024-11-15T10:18:47.653Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 113,
+    "time": "2024-11-15T10:18:47.656Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 111,
+    "time": "2024-11-15T10:18:48.046Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 97,
+    "time": "2024-11-15T10:18:48.047Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 114,
+    "time": "2024-11-15T10:18:48.061Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 117,
+    "time": "2024-11-15T10:18:48.062Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 110,
+    "time": "2024-11-15T10:18:48.064Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 98,
+    "time": "2024-11-15T10:18:48.065Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 112,
+    "time": "2024-11-15T10:18:48.480Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 118,
+    "time": "2024-11-15T10:18:48.531Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 113,
+    "time": "2024-11-15T10:18:48.533Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 111,
+    "time": "2024-11-15T10:18:48.534Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 114,
+    "time": "2024-11-15T10:18:48.653Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 115,
+    "time": "2024-11-15T10:18:48.655Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 113,
+    "time": "2024-11-15T10:18:49.049Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 99,
+    "time": "2024-11-15T10:18:49.050Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 116,
+    "time": "2024-11-15T10:18:49.061Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 119,
+    "time": "2024-11-15T10:18:49.063Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 112,
+    "time": "2024-11-15T10:18:49.065Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 100,
+    "time": "2024-11-15T10:18:49.066Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 114,
+    "time": "2024-11-15T10:18:49.486Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 120,
+    "time": "2024-11-15T10:18:49.532Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 115,
+    "time": "2024-11-15T10:18:49.533Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 113,
+    "time": "2024-11-15T10:18:49.547Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 116,
+    "time": "2024-11-15T10:18:49.654Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 117,
+    "time": "2024-11-15T10:18:49.656Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 115,
+    "time": "2024-11-15T10:18:50.056Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 101,
+    "time": "2024-11-15T10:18:50.058Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 118,
+    "time": "2024-11-15T10:18:50.064Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 121,
+    "time": "2024-11-15T10:18:50.066Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 114,
+    "time": "2024-11-15T10:18:50.067Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 102,
+    "time": "2024-11-15T10:18:50.068Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 116,
+    "time": "2024-11-15T10:18:50.490Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 122,
+    "time": "2024-11-15T10:18:50.532Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 117,
+    "time": "2024-11-15T10:18:50.534Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 115,
+    "time": "2024-11-15T10:18:50.546Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 118,
+    "time": "2024-11-15T10:18:50.655Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 119,
+    "time": "2024-11-15T10:18:50.656Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 117,
+    "time": "2024-11-15T10:18:51.060Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 103,
+    "time": "2024-11-15T10:18:51.061Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 120,
+    "time": "2024-11-15T10:18:51.064Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 123,
+    "time": "2024-11-15T10:18:51.066Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 116,
+    "time": "2024-11-15T10:18:51.068Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 104,
+    "time": "2024-11-15T10:18:51.069Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 118,
+    "time": "2024-11-15T10:18:51.491Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 124,
+    "time": "2024-11-15T10:18:51.538Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 119,
+    "time": "2024-11-15T10:18:51.540Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 117,
+    "time": "2024-11-15T10:18:51.549Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 120,
+    "time": "2024-11-15T10:18:51.659Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 121,
+    "time": "2024-11-15T10:18:51.660Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 119,
+    "time": "2024-11-15T10:18:52.062Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 105,
+    "time": "2024-11-15T10:18:52.063Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 122,
+    "time": "2024-11-15T10:18:52.064Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 125,
+    "time": "2024-11-15T10:18:52.077Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 118,
+    "time": "2024-11-15T10:18:52.078Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 106,
+    "time": "2024-11-15T10:18:52.079Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 120,
+    "time": "2024-11-15T10:18:52.494Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 126,
+    "time": "2024-11-15T10:18:52.540Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 121,
+    "time": "2024-11-15T10:18:52.542Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 119,
+    "time": "2024-11-15T10:18:52.555Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 122,
+    "time": "2024-11-15T10:18:52.661Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 123,
+    "time": "2024-11-15T10:18:52.663Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 121,
+    "time": "2024-11-15T10:18:53.063Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 107,
+    "time": "2024-11-15T10:18:53.064Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 124,
+    "time": "2024-11-15T10:18:53.065Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 127,
+    "time": "2024-11-15T10:18:53.079Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 120,
+    "time": "2024-11-15T10:18:53.081Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 108,
+    "time": "2024-11-15T10:18:53.082Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 122,
+    "time": "2024-11-15T10:18:53.500Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 128,
+    "time": "2024-11-15T10:18:53.544Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 123,
+    "time": "2024-11-15T10:18:53.546Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 121,
+    "time": "2024-11-15T10:18:53.563Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 124,
+    "time": "2024-11-15T10:18:53.664Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 125,
+    "time": "2024-11-15T10:18:53.665Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 123,
+    "time": "2024-11-15T10:18:54.072Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 109,
+    "time": "2024-11-15T10:18:54.073Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 126,
+    "time": "2024-11-15T10:18:54.079Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 129,
+    "time": "2024-11-15T10:18:54.081Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 122,
+    "time": "2024-11-15T10:18:54.084Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 110,
+    "time": "2024-11-15T10:18:54.085Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 124,
+    "time": "2024-11-15T10:18:54.500Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 130,
+    "time": "2024-11-15T10:18:54.544Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 125,
+    "time": "2024-11-15T10:18:54.546Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 123,
+    "time": "2024-11-15T10:18:54.562Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 126,
+    "time": "2024-11-15T10:18:54.663Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 127,
+    "time": "2024-11-15T10:18:54.666Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 125,
+    "time": "2024-11-15T10:18:55.069Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 111,
+    "time": "2024-11-15T10:18:55.084Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 128,
+    "time": "2024-11-15T10:18:55.085Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 131,
+    "time": "2024-11-15T10:18:55.085Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 124,
+    "time": "2024-11-15T10:18:55.086Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 112,
+    "time": "2024-11-15T10:18:55.086Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 126,
+    "time": "2024-11-15T10:18:55.512Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 132,
+    "time": "2024-11-15T10:18:55.558Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 127,
+    "time": "2024-11-15T10:18:55.559Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 125,
+    "time": "2024-11-15T10:18:55.566Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 128,
+    "time": "2024-11-15T10:18:55.664Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 129,
+    "time": "2024-11-15T10:18:55.667Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 127,
+    "time": "2024-11-15T10:18:56.073Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 113,
+    "time": "2024-11-15T10:18:56.090Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 130,
+    "time": "2024-11-15T10:18:56.092Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 133,
+    "time": "2024-11-15T10:18:56.094Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 126,
+    "time": "2024-11-15T10:18:56.095Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 114,
+    "time": "2024-11-15T10:18:56.096Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 128,
+    "time": "2024-11-15T10:18:56.524Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 134,
+    "time": "2024-11-15T10:18:56.571Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 129,
+    "time": "2024-11-15T10:18:56.573Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 127,
+    "time": "2024-11-15T10:18:56.574Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 130,
+    "time": "2024-11-15T10:18:56.667Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 131,
+    "time": "2024-11-15T10:18:56.668Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 129,
+    "time": "2024-11-15T10:18:57.078Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 115,
+    "time": "2024-11-15T10:18:57.094Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 132,
+    "time": "2024-11-15T10:18:57.095Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 135,
+    "time": "2024-11-15T10:18:57.096Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 128,
+    "time": "2024-11-15T10:18:57.097Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 116,
+    "time": "2024-11-15T10:18:57.098Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 130,
+    "time": "2024-11-15T10:18:57.525Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 136,
+    "time": "2024-11-15T10:18:57.574Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 131,
+    "time": "2024-11-15T10:18:57.575Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 129,
+    "time": "2024-11-15T10:18:57.576Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 132,
+    "time": "2024-11-15T10:18:57.667Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 133,
+    "time": "2024-11-15T10:18:57.668Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 131,
+    "time": "2024-11-15T10:18:58.079Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 117,
+    "time": "2024-11-15T10:18:58.093Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 134,
+    "time": "2024-11-15T10:18:58.109Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 137,
+    "time": "2024-11-15T10:18:58.110Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 130,
+    "time": "2024-11-15T10:18:58.111Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 118,
+    "time": "2024-11-15T10:18:58.111Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 132,
+    "time": "2024-11-15T10:18:58.526Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 138,
+    "time": "2024-11-15T10:18:58.587Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 133,
+    "time": "2024-11-15T10:18:58.588Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 131,
+    "time": "2024-11-15T10:18:58.589Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 134,
+    "time": "2024-11-15T10:18:58.669Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 135,
+    "time": "2024-11-15T10:18:58.670Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 133,
+    "time": "2024-11-15T10:18:59.093Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 119,
+    "time": "2024-11-15T10:18:59.094Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 136,
+    "time": "2024-11-15T10:18:59.109Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 139,
+    "time": "2024-11-15T10:18:59.110Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 132,
+    "time": "2024-11-15T10:18:59.111Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 120,
+    "time": "2024-11-15T10:18:59.112Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 134,
+    "time": "2024-11-15T10:18:59.525Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 140,
+    "time": "2024-11-15T10:18:59.588Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 135,
+    "time": "2024-11-15T10:18:59.589Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 133,
+    "time": "2024-11-15T10:18:59.590Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 136,
+    "time": "2024-11-15T10:18:59.668Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 137,
+    "time": "2024-11-15T10:18:59.670Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 135,
+    "time": "2024-11-15T10:19:00.098Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 121,
+    "time": "2024-11-15T10:19:00.099Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 138,
+    "time": "2024-11-15T10:19:00.113Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 141,
+    "time": "2024-11-15T10:19:00.114Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 134,
+    "time": "2024-11-15T10:19:00.115Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 122,
+    "time": "2024-11-15T10:19:00.116Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 136,
+    "time": "2024-11-15T10:19:00.535Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 142,
+    "time": "2024-11-15T10:19:00.596Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 137,
+    "time": "2024-11-15T10:19:00.597Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 135,
+    "time": "2024-11-15T10:19:00.598Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 138,
+    "time": "2024-11-15T10:19:00.671Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 139,
+    "time": "2024-11-15T10:19:00.673Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 137,
+    "time": "2024-11-15T10:19:01.105Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 123,
+    "time": "2024-11-15T10:19:01.110Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 140,
+    "time": "2024-11-15T10:19:01.123Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 143,
+    "time": "2024-11-15T10:19:01.125Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 136,
+    "time": "2024-11-15T10:19:01.126Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 124,
+    "time": "2024-11-15T10:19:01.127Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 138,
+    "time": "2024-11-15T10:19:01.544Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 144,
+    "time": "2024-11-15T10:19:01.597Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 139,
+    "time": "2024-11-15T10:19:01.600Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 137,
+    "time": "2024-11-15T10:19:01.601Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 140,
+    "time": "2024-11-15T10:19:01.675Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 141,
+    "time": "2024-11-15T10:19:01.676Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 139,
+    "time": "2024-11-15T10:19:02.112Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 125,
+    "time": "2024-11-15T10:19:02.113Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 142,
+    "time": "2024-11-15T10:19:02.128Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 145,
+    "time": "2024-11-15T10:19:02.129Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 138,
+    "time": "2024-11-15T10:19:02.129Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 126,
+    "time": "2024-11-15T10:19:02.129Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 140,
+    "time": "2024-11-15T10:19:02.543Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 146,
+    "time": "2024-11-15T10:19:02.602Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 141,
+    "time": "2024-11-15T10:19:02.603Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 139,
+    "time": "2024-11-15T10:19:02.604Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 142,
+    "time": "2024-11-15T10:19:02.677Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 143,
+    "time": "2024-11-15T10:19:02.678Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 141,
+    "time": "2024-11-15T10:19:03.120Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 127,
+    "time": "2024-11-15T10:19:03.121Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 144,
+    "time": "2024-11-15T10:19:03.128Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 147,
+    "time": "2024-11-15T10:19:03.130Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 140,
+    "time": "2024-11-15T10:19:03.131Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 128,
+    "time": "2024-11-15T10:19:03.132Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 142,
+    "time": "2024-11-15T10:19:03.548Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 148,
+    "time": "2024-11-15T10:19:03.609Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 143,
+    "time": "2024-11-15T10:19:03.611Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 141,
+    "time": "2024-11-15T10:19:03.612Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 144,
+    "time": "2024-11-15T10:19:03.676Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 145,
+    "time": "2024-11-15T10:19:03.678Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 143,
+    "time": "2024-11-15T10:19:04.134Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 129,
+    "time": "2024-11-15T10:19:04.135Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 146,
+    "time": "2024-11-15T10:19:04.138Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 149,
+    "time": "2024-11-15T10:19:04.140Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 142,
+    "time": "2024-11-15T10:19:04.140Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 130,
+    "time": "2024-11-15T10:19:04.141Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 144,
+    "time": "2024-11-15T10:19:04.550Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 150,
+    "time": "2024-11-15T10:19:04.612Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 145,
+    "time": "2024-11-15T10:19:04.612Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 143,
+    "time": "2024-11-15T10:19:04.613Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 146,
+    "time": "2024-11-15T10:19:04.677Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 147,
+    "time": "2024-11-15T10:19:04.678Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 145,
+    "time": "2024-11-15T10:19:05.147Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 131,
+    "time": "2024-11-15T10:19:05.147Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 148,
+    "time": "2024-11-15T10:19:05.148Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 151,
+    "time": "2024-11-15T10:19:05.148Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 144,
+    "time": "2024-11-15T10:19:05.149Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 132,
+    "time": "2024-11-15T10:19:05.149Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 146,
+    "time": "2024-11-15T10:19:05.559Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 152,
+    "time": "2024-11-15T10:19:05.621Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 147,
+    "time": "2024-11-15T10:19:05.623Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 145,
+    "time": "2024-11-15T10:19:05.624Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 148,
+    "time": "2024-11-15T10:19:05.677Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 149,
+    "time": "2024-11-15T10:19:05.679Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 147,
+    "time": "2024-11-15T10:19:06.156Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 133,
+    "time": "2024-11-15T10:19:06.157Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 150,
+    "time": "2024-11-15T10:19:06.157Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 153,
+    "time": "2024-11-15T10:19:06.158Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 146,
+    "time": "2024-11-15T10:19:06.158Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 134,
+    "time": "2024-11-15T10:19:06.159Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 148,
+    "time": "2024-11-15T10:19:06.560Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 154,
+    "time": "2024-11-15T10:19:06.622Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 149,
+    "time": "2024-11-15T10:19:06.624Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 147,
+    "time": "2024-11-15T10:19:06.626Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 150,
+    "time": "2024-11-15T10:19:06.681Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 151,
+    "time": "2024-11-15T10:19:06.682Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 149,
+    "time": "2024-11-15T10:19:07.170Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 135,
+    "time": "2024-11-15T10:19:07.171Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 152,
+    "time": "2024-11-15T10:19:07.172Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 155,
+    "time": "2024-11-15T10:19:07.172Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 148,
+    "time": "2024-11-15T10:19:07.173Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 136,
+    "time": "2024-11-15T10:19:07.173Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 150,
+    "time": "2024-11-15T10:19:07.560Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 156,
+    "time": "2024-11-15T10:19:07.627Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 151,
+    "time": "2024-11-15T10:19:07.628Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 149,
+    "time": "2024-11-15T10:19:07.628Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 152,
+    "time": "2024-11-15T10:19:07.694Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 153,
+    "time": "2024-11-15T10:19:07.696Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 151,
+    "time": "2024-11-15T10:19:08.176Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 137,
+    "time": "2024-11-15T10:19:08.177Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 154,
+    "time": "2024-11-15T10:19:08.177Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 157,
+    "time": "2024-11-15T10:19:08.178Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 150,
+    "time": "2024-11-15T10:19:08.179Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 138,
+    "time": "2024-11-15T10:19:08.180Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 152,
+    "time": "2024-11-15T10:19:08.563Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 158,
+    "time": "2024-11-15T10:19:08.629Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 153,
+    "time": "2024-11-15T10:19:08.630Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 151,
+    "time": "2024-11-15T10:19:08.631Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 154,
+    "time": "2024-11-15T10:19:08.691Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 155,
+    "time": "2024-11-15T10:19:08.697Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 153,
+    "time": "2024-11-15T10:19:09.177Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 139,
+    "time": "2024-11-15T10:19:09.177Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 156,
+    "time": "2024-11-15T10:19:09.179Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 159,
+    "time": "2024-11-15T10:19:09.180Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 152,
+    "time": "2024-11-15T10:19:09.180Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 140,
+    "time": "2024-11-15T10:19:09.183Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 154,
+    "time": "2024-11-15T10:19:09.576Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 160,
+    "time": "2024-11-15T10:19:09.639Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 155,
+    "time": "2024-11-15T10:19:09.642Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 153,
+    "time": "2024-11-15T10:19:09.643Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 156,
+    "time": "2024-11-15T10:19:09.696Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 157,
+    "time": "2024-11-15T10:19:09.698Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 155,
+    "time": "2024-11-15T10:19:10.191Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 141,
+    "time": "2024-11-15T10:19:10.192Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 158,
+    "time": "2024-11-15T10:19:10.193Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 161,
+    "time": "2024-11-15T10:19:10.194Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 154,
+    "time": "2024-11-15T10:19:10.202Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 142,
+    "time": "2024-11-15T10:19:10.203Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 156,
+    "time": "2024-11-15T10:19:10.579Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 162,
+    "time": "2024-11-15T10:19:10.639Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 157,
+    "time": "2024-11-15T10:19:10.641Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 155,
+    "time": "2024-11-15T10:19:10.656Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 158,
+    "time": "2024-11-15T10:19:10.698Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 159,
+    "time": "2024-11-15T10:19:10.700Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 157,
+    "time": "2024-11-15T10:19:11.201Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 143,
+    "time": "2024-11-15T10:19:11.204Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 160,
+    "time": "2024-11-15T10:19:11.206Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 163,
+    "time": "2024-11-15T10:19:11.207Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 156,
+    "time": "2024-11-15T10:19:11.208Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 144,
+    "time": "2024-11-15T10:19:11.209Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 158,
+    "time": "2024-11-15T10:19:11.584Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 164,
+    "time": "2024-11-15T10:19:11.639Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 159,
+    "time": "2024-11-15T10:19:11.642Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 157,
+    "time": "2024-11-15T10:19:11.658Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 160,
+    "time": "2024-11-15T10:19:11.699Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 161,
+    "time": "2024-11-15T10:19:11.701Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 159,
+    "time": "2024-11-15T10:19:12.199Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 145,
+    "time": "2024-11-15T10:19:12.216Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 162,
+    "time": "2024-11-15T10:19:12.217Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 165,
+    "time": "2024-11-15T10:19:12.218Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 158,
+    "time": "2024-11-15T10:19:12.219Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 146,
+    "time": "2024-11-15T10:19:12.219Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 160,
+    "time": "2024-11-15T10:19:12.586Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 166,
+    "time": "2024-11-15T10:19:12.646Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 161,
+    "time": "2024-11-15T10:19:12.647Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 159,
+    "time": "2024-11-15T10:19:12.661Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 162,
+    "time": "2024-11-15T10:19:12.712Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 163,
+    "time": "2024-11-15T10:19:12.713Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 161,
+    "time": "2024-11-15T10:19:13.213Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 147,
+    "time": "2024-11-15T10:19:13.227Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 164,
+    "time": "2024-11-15T10:19:13.228Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 167,
+    "time": "2024-11-15T10:19:13.229Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 160,
+    "time": "2024-11-15T10:19:13.231Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 148,
+    "time": "2024-11-15T10:19:13.232Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 162,
+    "time": "2024-11-15T10:19:13.596Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 168,
+    "time": "2024-11-15T10:19:13.658Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 163,
+    "time": "2024-11-15T10:19:13.659Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 161,
+    "time": "2024-11-15T10:19:13.673Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 164,
+    "time": "2024-11-15T10:19:13.719Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 165,
+    "time": "2024-11-15T10:19:13.721Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 163,
+    "time": "2024-11-15T10:19:14.222Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 149,
+    "time": "2024-11-15T10:19:14.237Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 166,
+    "time": "2024-11-15T10:19:14.241Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 169,
+    "time": "2024-11-15T10:19:14.244Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 162,
+    "time": "2024-11-15T10:19:14.246Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 150,
+    "time": "2024-11-15T10:19:14.247Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 164,
+    "time": "2024-11-15T10:19:14.601Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 170,
+    "time": "2024-11-15T10:19:14.668Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 165,
+    "time": "2024-11-15T10:19:14.669Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 163,
+    "time": "2024-11-15T10:19:14.677Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 166,
+    "time": "2024-11-15T10:19:14.730Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 167,
+    "time": "2024-11-15T10:19:14.731Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 165,
+    "time": "2024-11-15T10:19:15.223Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 151,
+    "time": "2024-11-15T10:19:15.241Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 168,
+    "time": "2024-11-15T10:19:15.243Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 171,
+    "time": "2024-11-15T10:19:15.246Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 164,
+    "time": "2024-11-15T10:19:15.247Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 152,
+    "time": "2024-11-15T10:19:15.248Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 166,
+    "time": "2024-11-15T10:19:15.610Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 172,
+    "time": "2024-11-15T10:19:15.673Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 167,
+    "time": "2024-11-15T10:19:15.674Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 165,
+    "time": "2024-11-15T10:19:15.689Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 168,
+    "time": "2024-11-15T10:19:15.736Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 169,
+    "time": "2024-11-15T10:19:15.737Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 167,
+    "time": "2024-11-15T10:19:16.232Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 153,
+    "time": "2024-11-15T10:19:16.246Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 170,
+    "time": "2024-11-15T10:19:16.247Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 173,
+    "time": "2024-11-15T10:19:16.248Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 166,
+    "time": "2024-11-15T10:19:16.249Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 154,
+    "time": "2024-11-15T10:19:16.250Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 168,
+    "time": "2024-11-15T10:19:16.611Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 174,
+    "time": "2024-11-15T10:19:16.675Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 169,
+    "time": "2024-11-15T10:19:16.676Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 167,
+    "time": "2024-11-15T10:19:16.691Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 170,
+    "time": "2024-11-15T10:19:16.742Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 171,
+    "time": "2024-11-15T10:19:16.742Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 169,
+    "time": "2024-11-15T10:19:17.241Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 155,
+    "time": "2024-11-15T10:19:17.256Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 172,
+    "time": "2024-11-15T10:19:17.258Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 175,
+    "time": "2024-11-15T10:19:17.259Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 168,
+    "time": "2024-11-15T10:19:17.260Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 156,
+    "time": "2024-11-15T10:19:17.261Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 170,
+    "time": "2024-11-15T10:19:17.626Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 176,
+    "time": "2024-11-15T10:19:17.677Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 171,
+    "time": "2024-11-15T10:19:17.678Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyenminh.dev@gmail.com",
+    "bidPrice": 169,
+    "time": "2024-11-15T10:19:17.699Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "fenedi9796@gyxmz.com",
+    "bidPrice": 172,
+    "time": "2024-11-15T10:19:17.751Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 173,
+    "time": "2024-11-15T10:19:17.753Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "bachxtnd2000@gmail.com",
+    "bidPrice": 171,
+    "time": "2024-11-15T10:19:18.242Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toannguyen100998@gmail.com",
+    "bidPrice": 157,
+    "time": "2024-11-15T10:19:18.257Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "testmetatech@gmail.com",
+    "bidPrice": 174,
+    "time": "2024-11-15T10:19:18.259Z",
+    "auctionId": "22488"
+  },
+  {
+    "username": "toan@chapsmail.com",
+    "bidPrice": 177,
+    "time": "2024-11-15T10:19:18.259Z",
+    "auctionId": "22488"
+  }
+]

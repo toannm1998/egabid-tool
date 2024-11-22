@@ -85,8 +85,21 @@ const bidAll = (auctionId, bidPrice, token) => {
         Authorization: `Bearer ${token}`,
       },
       body: JSON.stringify(data),
-    });
+    })
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error("Network response was not ok", bidPrice);
+        }
+        return response.json();
+      })
+      .then((data) => {
+        console.log("Success:", data);
+      })
+      .catch((error) => {
+        console.error(" bidAll Error:", error);
+      });
   });
+
   const results = Promise.allSettled(fetchPromises);
 };
 

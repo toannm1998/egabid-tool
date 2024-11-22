@@ -19,6 +19,8 @@ const accounts = [
   { username: "bachxtnd2000@gmail.com", password: "123321" },
   { username: "testmetatech@gmail.com", password: "12345678" },
   { username: "toannguyen100998@gmail.com", password: "@Dmin4123" },
+  { username: "fenedi9796@gyxmz.com", password: "12345678" },
+
 ];
 
 // Global variable to store all bid history
@@ -29,11 +31,11 @@ let bidHistory = [];
 let userBids = new Map(); // To keep track of bids placed by each user
 
 // Add at the top with other constants
-
-const AUCTION_ID = 22480;
+const AUCTION_ID = 22517;
 const TARGET_AUCTION_URL = `https://egabid.com/en/auction/${AUCTION_ID}.html`;
-const BID_INTERVAL = 1000; // Time in milliseconds between bids
-const START_PRICE = null; // Set to null to use data.start, or set a specific number like 1000
+const BID_INTERVAL = 100; // Time in milliseconds between bids
+const START_PRICE = 1000; // Set to null to use data.start, or set a specific number
+const MAX_PRICE = 1000000; // Set to null for incremental bidding, or set a number for random bidding up to that value
 
 (async () => {
   // Connect ws
@@ -281,10 +283,20 @@ const autoBid = async (auctionId, client, token, accountIndex, username) => {
         // Calculate next bid price
         let nextPrice;
         if (userBidSet.size === 0) {
-          nextPrice = START_PRICE !== null ? START_PRICE : data.start; // Use custom start price or data.start
+          nextPrice = START_PRICE !== null ? START_PRICE : data.start;
         } else {
-          const lastBid = Math.max(...Array.from(userBidSet), 0);
-          nextPrice = lastBid + data.step; // Increment by step price
+          if (MAX_PRICE !== null) {
+            // Random bidding mode
+            const minPrice = data.start;
+            const randomPrice = Math.floor(
+              Math.random() * (MAX_PRICE - minPrice + 1) + minPrice
+            );
+            nextPrice = Math.floor(randomPrice / data.step) * data.step;
+          } else {
+            // Incremental bidding mode
+            const lastBid = Math.max(...Array.from(userBidSet), 0);
+            nextPrice = lastBid + data.step;
+          }
         }
 
         // Check if user hasn't bid this price before
